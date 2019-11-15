@@ -1,0 +1,14 @@
+{
+    "name": "nihilus/cqrs-sample",
+    "description": "Sample of integration of cqrs inside symfony project",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean Pasqualini",
+            "email": "jpasqualini@wynd.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
